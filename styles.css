@@ -118,7 +118,12 @@ h6 {
     cursor: pointer;
 }
 
+/*catalogo*/
 
+#catalogo-iconos{
+    padding: 10vh 10vh 10vh;
+    text-align: center;
+}
 
 
 
