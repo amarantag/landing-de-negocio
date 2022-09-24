@@ -198,3 +198,9 @@ ul{
     justify-content: right;
     padding: 20px;
 }
+
+
+#footer {
+    color: rgb(129, 127, 127);
+    margin-top: 10px;
+}
