@@ -204,3 +204,7 @@ ul{
     color: rgb(129, 127, 127);
     margin-top: 10px;
 }
+
+@media all and (min-widht: 768px) {
+    
+}
