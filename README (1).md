@@ -7,3 +7,4 @@ Este es el primer proyecto del Bootcam de Desarrollo Web Fullstack, es la landin
 ## 🚀 About Me
 Soy estudiante en el Bootcam de Desarrollo Web Fullstack en UCamp
 
+https://github.com/amarantag/landing-de-negocio/issues/1#issue-1385160731
