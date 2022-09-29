@@ -212,6 +212,13 @@ ul{
 
 /* responsive design */
 
+.card{
+
+    max-width: 100%;
+    width: 100%;
+    height: auto !important;
+}
+
 @media (max-width:767px) {
     .portfolio img {
         max-width: 100%;
